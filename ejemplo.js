@@ -1,1 +1,3 @@
-<script>ejemplo</script>
+<script>ejemplo prueba
+    esta es una opcion
+</script>
